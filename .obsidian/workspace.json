@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "4aae517d199bbc5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdba89ad5aed49ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b74d972f3b3a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nederlands/laptopstudent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea24010f858a1b23",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cea9715ab82876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5921c6aa63ff41cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f68abe4dcc46df33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf38d068a59b28b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "525c6a731c0ed3b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd143db67ad4c25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6c446d2ae622f9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nederlands/laptopstudent.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3f7f586c7d8dcd0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nederlands/laptopstudent.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcea2ed066ae165e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5325f11312b8f130",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nederlands/laptopstudent.md"
+              }
+            }
+          },
+          {
+            "id": "ef5744d726555c37",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b6b74d972f3b3a50",
+  "lastOpenFiles": [
+    "nederlands/laptopstudent.md",
+    "Untitled.md",
+    "informatica/brainstorm.md",
+    "informatica/PCPartPicker.md",
+    "nw/mitose.md",
+    "nw/DNAvsRNA.md",
+    "nw/DNAOpbouw.md",
+    "engels/WritingExam.md",
+    "assets/notitiesjelle.jpg",
+    "engels",
+    "assets/nwinterfase.png",
+    "assets",
+    "nederlands/arthurRomanVsKarelRoman.md",
+    "nederlands/PodcastBeluisteren.md",
+    "geschiedenis/WOI.md",
+    "nederlands/vliegendSchaakBord.md",
+    "aardrijkskunde/toets.md",
+    "geschiedenis",
+    "aardrijkskunde/tijdsbepaling.md",
+    "aardrijkskunde/Luchtdrukverschillen.md",
+    "nederlands/arthurRomanVsKareRoman.md",
+    "arthurRomanVsKareRoman.md",
+    "nederlands",
+    "informatica",
+    "aardrijkskunde",
+    "nw"
+  ]
+}
