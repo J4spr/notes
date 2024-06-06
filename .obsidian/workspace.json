@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cdba89ad5aed49ab",
+        "id": "97c31a8b60dce776",
         "type": "tabs",
         "children": [
           {
-            "id": "b6b74d972f3b3a50",
+            "id": "2990dfaef382d74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "525c6a731c0ed3b0",
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,13 +155,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b6b74d972f3b3a50",
+  "active": "2990dfaef382d74a",
   "lastOpenFiles": [
+    "nw/mitose.md",
+    "informatica/PCPartPicker.md",
+    "2024-06-06.md",
+    "informatica/brainstorm.md",
     "nederlands/laptopstudent.md",
     "Untitled.md",
-    "informatica/brainstorm.md",
-    "informatica/PCPartPicker.md",
-    "nw/mitose.md",
     "nw/DNAvsRNA.md",
     "nw/DNAOpbouw.md",
     "engels/WritingExam.md",
