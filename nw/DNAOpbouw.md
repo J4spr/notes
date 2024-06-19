@@ -10,7 +10,7 @@ primer:  kort stukje DNA
 interfase is veel langer dan de celdelingfase
 de interfase of groeifase
 opdelen in 3 delen:
-- **S**(*ynthese*): je dna gaat verdubbelen voor dat hij kan afsplitsen
+- **S**(*ynthese*): je DNA gaat verdubbelen voor dat hij kan afsplitsen
 - **G**(*ap*): je cel gaat groeien en gaat splitsen 
 
 ![](../assets/nwinterfase.png)

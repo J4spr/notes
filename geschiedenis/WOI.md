@@ -12,8 +12,8 @@
 	- Frankrijk verliest en moet Elzas lothanringen afstaan
 	- Franse blijven gebie claimen
 3. Blokvorming
-	- [Triple Alliantie](WOI.md#^partijen): Duitsland, Oostenrijk-Hongarije, Italië
-	- [Triple Entente](WOI.md#^partijen): Frankrijk, Rusland, UK
+	- [Triple Alliantie](WOI.md#^triple-alliantie): Duitsland, Oostenrijk-Hongarije, Italië
+	- [Triple entente](WOI.md#^triple-entente): Frankrijk, Rusland, UK
 	- Elkaar helpen in oorlog
 4. Wapenwedloop
 	- legers breiden uit
@@ -23,11 +23,11 @@
 --- 
 ## Partijen
 
-| Triple Alliantië^partij1 | Triple Entente^partij2 |
-| ------------------------ | ---------------------- |
-| Duitsland                | Frankrijk              |
-| Oostenrijk-Hongarije     | Rusland                |
-| Italië                   | Verenigd Koninkrijk    |
+| Triple Alliantië ^triple-alliantie | Triple Entente ^triple-entente |
+| ---------------------------------- | ------------------------------ |
+| Duitsland                          | Frankrijk                      |
+| Oostenrijk-Hongarije               | Rusland                        |
+| Italië                             | Verenigd Koninkrijk            |
 
 --- 
 

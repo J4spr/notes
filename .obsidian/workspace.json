@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f81b757e8e93f4ae",
+            "id": "09e200151ccf2b03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "frans/examen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "frans/examen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "frans/examen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "frans/examen.md"
+              }
             }
           },
           {
@@ -147,18 +155,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f81b757e8e93f4ae",
+  "active": "09e200151ccf2b03",
   "lastOpenFiles": [
+    "nw/DNAOpbouw.md",
+    "frans/examen.md",
+    "frans",
+    "nw/DNAvsRNA.md",
+    "nw/mitose.md",
+    "geschiedenis/WOI.md",
+    "nederlands/laatsteles.md",
     "informatica/Abby.md",
     "informatica/PCPartPicker.md",
     "informatica/Martijn.md",
     "informatica/Tom.md",
     "nederlands/laptopstudent.md",
-    "nw/mitose.md",
     "2024-06-06.md",
     "informatica/brainstorm.md",
-    "nw/DNAvsRNA.md",
-    "nw/DNAOpbouw.md",
     "engels/WritingExam.md",
     "assets/notitiesjelle.jpg",
     "engels",
@@ -166,7 +178,6 @@
     "assets",
     "nederlands/arthurRomanVsKarelRoman.md",
     "nederlands/PodcastBeluisteren.md",
-    "geschiedenis/WOI.md",
     "nederlands/vliegendSchaakBord.md",
     "aardrijkskunde/toets.md",
     "geschiedenis",
