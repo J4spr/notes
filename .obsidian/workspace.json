@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd12b7d36b1c1fe1",
+        "id": "e97cb86816341faf",
         "type": "tabs",
         "children": [
           {
-            "id": "09e200151ccf2b03",
+            "id": "2d13e3b863f8c15c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frans/examen.md",
+                "file": "Networking/OSImodel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frans/examen.md",
+                "file": "Networking/OSImodel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frans/examen.md",
+                "file": "Networking/OSImodel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frans/examen.md"
+                "file": "Networking/OSImodel.md"
               }
             }
           },
@@ -155,39 +155,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09e200151ccf2b03",
+  "active": "2d13e3b863f8c15c",
   "lastOpenFiles": [
-    "nw/DNAOpbouw.md",
-    "frans/examen.md",
-    "frans",
-    "nw/DNAvsRNA.md",
-    "nw/mitose.md",
-    "geschiedenis/WOI.md",
-    "nederlands/laatsteles.md",
-    "informatica/Abby.md",
-    "informatica/PCPartPicker.md",
-    "informatica/Martijn.md",
-    "informatica/Tom.md",
-    "nederlands/laptopstudent.md",
+    "aardrijkskunde.md",
+    "Networking/OSImodel.md",
+    "Networking",
+    "6ICW",
+    "5ICW",
+    "5ICW/nw/DNAOpbouw.md",
+    "5ICW/frans/examen.md",
+    "5ICW/frans",
+    "5ICW/nw/DNAvsRNA.md",
+    "5ICW/nw/mitose.md",
+    "5ICW/geschiedenis/WOI.md",
+    "5ICW/nederlands/laatsteles.md",
+    "5ICW/informatica/Abby.md",
+    "5ICW/informatica/PCPartPicker.md",
+    "5ICW/informatica/Martijn.md",
+    "5ICW/informatica/Tom.md",
+    "5ICW/nederlands/laptopstudent.md",
     "2024-06-06.md",
-    "informatica/brainstorm.md",
-    "engels/WritingExam.md",
-    "assets/notitiesjelle.jpg",
-    "engels",
-    "assets/nwinterfase.png",
-    "assets",
-    "nederlands/arthurRomanVsKarelRoman.md",
-    "nederlands/PodcastBeluisteren.md",
-    "nederlands/vliegendSchaakBord.md",
-    "aardrijkskunde/toets.md",
-    "geschiedenis",
-    "aardrijkskunde/tijdsbepaling.md",
-    "aardrijkskunde/Luchtdrukverschillen.md",
+    "5ICW/informatica/brainstorm.md",
+    "5ICW/engels/WritingExam.md",
+    "5ICW/assets/notitiesjelle.jpg",
+    "5ICW/engels",
+    "5ICW/assets/nwinterfase.png",
+    "5ICW/assets",
+    "5ICW/nederlands/arthurRomanVsKarelRoman.md",
+    "5ICW/nederlands/PodcastBeluisteren.md",
+    "5ICW/nederlands/vliegendSchaakBord.md",
+    "5ICW/aardrijkskunde/toets.md",
+    "5ICW/geschiedenis",
+    "5ICW/aardrijkskunde/tijdsbepaling.md",
+    "5ICW/aardrijkskunde/Luchtdrukverschillen.md",
     "nederlands/arthurRomanVsKareRoman.md",
     "arthurRomanVsKareRoman.md",
-    "nederlands",
-    "informatica",
-    "aardrijkskunde",
-    "nw"
+    "5ICW/nederlands",
+    "5ICW/informatica",
+    "5ICW/aardrijkskunde"
   ]
 }
