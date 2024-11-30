@@ -1,0 +1,28 @@
+
+- oef 1
+	- 3 cliches met fotos
+- oef2
+	- tekst met woorden en invullen
+- oef 3
+	- ontkenning
+	- zin waarvan ik moet ontkennen
+- oef 4
+	- 4 teksten met mensen van beroepen
+	- moeten zoeken welk beroep het is 
+- oef 5:
+	- COD, COI, Y, EN
+- oef 6 
+	- prentje met beroep
+	- woorden in nederlands en beschrijf
+- oef 7
+	- tekst met vragen
+- oef 8
+	- again een tekst met woorden
+- oef 9 
+	- tekst met schema dat we moeten invullen
+- oef 10
+	- mensen dat getuigenissen geven en mevrouw geeft ons kernwoorden en wij moeten juiste naam schrijven
+- oef 11
+	- beroepen
+- oef 12:
+	- 
