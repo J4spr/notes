@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74775acbc57f91e6",
+        "id": "787fbea7ff614e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "e19cb7303342718c",
+            "id": "856c24efe4c9493d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "frans examen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "frans examen"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
     "id": "525c6a731c0ed3b0",
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "frans examen.md",
+                "file": "aardrijkskunde/Luchtdrukverschillen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for frans examen"
+              "title": "Backlinks for Luchtdrukverschillen"
             }
           },
           {
@@ -112,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frans examen.md",
+                "file": "aardrijkskunde/Luchtdrukverschillen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from frans examen"
+              "title": "Outgoing links from Luchtdrukverschillen"
             }
           },
           {
@@ -139,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "frans examen.md"
+                "file": "aardrijkskunde/Luchtdrukverschillen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of frans examen"
+              "title": "Outline of Luchtdrukverschillen"
             }
           },
           {
@@ -151,8 +147,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -173,44 +169,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e19cb7303342718c",
+  "active": "5921c6aa63ff41cf",
   "lastOpenFiles": [
+    "nederlands/examen.md",
     "frans examen.md",
     "Networking/OSImodel.md",
-    "aardrijkskunde.md",
+    "informatica/PCPartPicker.md",
     "Networking",
-    "6ICW",
-    "5ICW",
-    "5ICW/nw/DNAOpbouw.md",
-    "5ICW/frans/examen.md",
-    "5ICW/frans",
-    "5ICW/nw/DNAvsRNA.md",
-    "5ICW/nw/mitose.md",
-    "5ICW/geschiedenis/WOI.md",
-    "5ICW/nederlands/laatsteles.md",
-    "5ICW/informatica/Abby.md",
-    "5ICW/informatica/PCPartPicker.md",
-    "5ICW/informatica/Martijn.md",
-    "5ICW/informatica/Tom.md",
-    "5ICW/nederlands/laptopstudent.md",
-    "2024-06-06.md",
-    "5ICW/informatica/brainstorm.md",
-    "5ICW/engels/WritingExam.md",
-    "5ICW/assets/notitiesjelle.jpg",
-    "5ICW/engels",
-    "5ICW/assets/nwinterfase.png",
-    "5ICW/assets",
-    "5ICW/nederlands/arthurRomanVsKarelRoman.md",
-    "5ICW/nederlands/PodcastBeluisteren.md",
-    "5ICW/nederlands/vliegendSchaakBord.md",
-    "5ICW/aardrijkskunde/toets.md",
-    "5ICW/geschiedenis",
-    "5ICW/aardrijkskunde/tijdsbepaling.md",
-    "5ICW/aardrijkskunde/Luchtdrukverschillen.md",
+    "informatica/brainstorm.md",
+    "aardrijkskunde/Luchtdrukverschillen.md",
+    "nederlands/laptopstudent.md",
+    "Untitled.md",
+    "nw/mitose.md",
+    "nw/DNAvsRNA.md",
+    "nw/DNAOpbouw.md",
+    "engels/WritingExam.md",
+    "assets/notitiesjelle.jpg",
+    "engels",
+    "assets/nwinterfase.png",
+    "assets",
+    "nederlands/arthurRomanVsKarelRoman.md",
+    "nederlands/PodcastBeluisteren.md",
+    "geschiedenis/WOI.md",
+    "nederlands/vliegendSchaakBord.md",
+    "aardrijkskunde/toets.md",
+    "geschiedenis",
+    "aardrijkskunde/tijdsbepaling.md",
     "nederlands/arthurRomanVsKareRoman.md",
     "arthurRomanVsKareRoman.md",
-    "5ICW/nederlands",
-    "5ICW/informatica",
-    "5ICW/aardrijkskunde"
+    "nederlands",
+    "informatica",
+    "aardrijkskunde",
+    "nw"
   ]
 }
