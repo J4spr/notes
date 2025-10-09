@@ -1,49 +1,69 @@
 {
   "main": {
-    "id": "4aae517d199bbc5c",
+    "id": "3a7cfeb91f3ccca7",
     "type": "split",
     "children": [
       {
-        "id": "787fbea7ff614e4b",
+        "id": "2652b9ba9fcd732d",
         "type": "tabs",
         "children": [
           {
-            "id": "856c24efe4c9493d",
+            "id": "e85b525c87c3bccf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The company/Les 0310.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Les 0310"
+            }
+          },
+          {
+            "id": "4a4941c82700e237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management/les0910.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "les0910"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ea24010f858a1b23",
+    "id": "3f992024a5840298",
     "type": "split",
     "children": [
       {
-        "id": "a9cea9715ab82876",
+        "id": "77bb2ad19e9e54cc",
         "type": "tabs",
         "children": [
           {
-            "id": "5921c6aa63ff41cf",
+            "id": "2c1875de311b3480",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "f68abe4dcc46df33",
+            "id": "85fec30bf3981fac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +80,7 @@
             }
           },
           {
-            "id": "bf38d068a59b28b6",
+            "id": "4482d205d9c0e8aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,21 +96,21 @@
     "width": 300
   },
   "right": {
-    "id": "525c6a731c0ed3b0",
+    "id": "1d053e59c91e736f",
     "type": "split",
     "children": [
       {
-        "id": "dd143db67ad4c25f",
+        "id": "eba103222bd988ff",
         "type": "tabs",
         "children": [
           {
-            "id": "b6c446d2ae622f9e",
+            "id": "8f7676825e18d2c4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aardrijkskunde/Luchtdrukverschillen.md",
-                "collapseAll": true,
+                "file": "Management/Les 1809.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -99,50 +119,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Luchtdrukverschillen"
+              "title": "Backlinks for Les 1809"
             }
           },
           {
-            "id": "d3f7f586c7d8dcd0",
+            "id": "0ff0d31e77215dc9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aardrijkskunde/Luchtdrukverschillen.md",
+                "file": "conceptual thinking/Eerste les.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Luchtdrukverschillen"
+              "title": "Outgoing links from Eerste les"
             }
           },
           {
-            "id": "bcea2ed066ae165e",
+            "id": "bc83dd48f9c6a681",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "5325f11312b8f130",
+            "id": "ba7deb134cdaadf6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "aardrijkskunde/Luchtdrukverschillen.md"
+                "file": "Management/Les 1809.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Luchtdrukverschillen"
+              "title": "Outline of Les 1809"
             }
           },
           {
-            "id": "ef5744d726555c37",
+            "id": "48a3b5571b76bd3e",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -151,7 +176,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,40 +192,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5921c6aa63ff41cf",
+  "active": "4a4941c82700e237",
   "lastOpenFiles": [
-    "nederlands/examen.md",
-    "frans examen.md",
-    "Networking/OSImodel.md",
-    "informatica/PCPartPicker.md",
-    "Networking",
-    "informatica/brainstorm.md",
-    "aardrijkskunde/Luchtdrukverschillen.md",
-    "nederlands/laptopstudent.md",
-    "Untitled.md",
-    "nw/mitose.md",
-    "nw/DNAvsRNA.md",
-    "nw/DNAOpbouw.md",
-    "engels/WritingExam.md",
-    "assets/notitiesjelle.jpg",
-    "engels",
-    "assets/nwinterfase.png",
-    "assets",
-    "nederlands/arthurRomanVsKarelRoman.md",
-    "nederlands/PodcastBeluisteren.md",
-    "geschiedenis/WOI.md",
-    "nederlands/vliegendSchaakBord.md",
-    "aardrijkskunde/toets.md",
-    "geschiedenis",
-    "aardrijkskunde/tijdsbepaling.md",
-    "nederlands/arthurRomanVsKareRoman.md",
-    "arthurRomanVsKareRoman.md",
-    "nederlands",
-    "informatica",
-    "aardrijkskunde",
-    "nw"
+    "The company/Les 0310.md",
+    "Management/les0910.md",
+    "assets/Pasted image 20251003094135.png",
+    "Conceptual Thinking/Les0210.md",
+    "Conceptual Thinking/Eerste les.md",
+    "Conceptual Thinking/Les2909.md",
+    "Management/Les 0210.md",
+    "Management/les2509.md",
+    "Management/Les 1809.md",
+    "misc/Sidequests.md",
+    "misc",
+    "Database Fundamentals/Les 16-09.md",
+    "Conceptual Thinking/Les 2209.md",
+    "Database Fundamentals/Les 1909.md",
+    "Operating systems/Les 1709.md",
+    "The company",
+    "Management",
+    "Operating systems",
+    "school-notes",
+    "school-notess",
+    "New folder",
+    "cheat-sheets/windows/windows-updates.md",
+    "cheat-sheets/windows/windows-terminal.md",
+    "cheat-sheets/windows/windows-dns-server.md",
+    "cheat-sheets/windows/powershell-remote.md",
+    "cheat-sheets/windows/powershell.md",
+    "cheat-sheets/windows/environment-variables-in-windows.md",
+    "cheat-sheets/windows/chocolatey.md",
+    "cheat-sheets/windows/certutil.md",
+    "cheat-sheets/windows",
+    "cheat-sheets/tools/wsl.md",
+    "cheat-sheets/tools/wireshark.md",
+    "cheat-sheets/tools/vscode.md",
+    "cheat-sheets/tools/vagrant.md",
+    "cheat-sheets/tools/terraform.md",
+    "cheat-sheets/tools",
+    "cheat-sheets/networking/dns"
   ]
 }
