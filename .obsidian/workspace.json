@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3677b9608c45d08c",
+        "id": "59db6eca944b854b",
         "type": "tabs",
         "children": [
           {
-            "id": "3559fa0414897d3e",
+            "id": "0bd7cbd821206434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "communicatie/les 1011.md",
+                "file": "The company/communicatie/BigFive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "les 1011"
+              "title": "BigFive"
             }
           }
         ]
@@ -181,29 +181,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c1875de311b3480",
+  "active": "0bd7cbd821206434",
   "lastOpenFiles": [
-    "communicatie",
-    "communicatie/les 1011.md",
-    "Database Fundamentals/Les 16-09.md",
-    "Database Fundamentals/Les 1909.md",
+    "Les1911.md",
+    "The company/communicatie/BigFive.md",
+    "Conceptual Thinking/les1911.md",
+    "Management/les1811.md",
+    "The company/communicatie/Les 0310.md",
+    "Operating systems/Les 1709.md",
+    "Operating systems/Les 0910.md",
+    "misc/Sidequests.md",
     "Management/oefeningen2310.md",
-    "Conceptual Thinking/Groepsopdracht periode 1.md",
+    "Management/les2509.md",
+    "Management/les0910.md",
+    "Management/Les 1809.md",
+    "Management/Les 0210.md",
     "Conceptual Thinking/use cases.md",
-    "Conceptual Thinking/Les 1310.md",
+    "Conceptual Thinking/p2w7.md",
+    "Conceptual Thinking/Les0210.md",
     "Conceptual Thinking/Les 2209.md",
     "Conceptual Thinking/Les2909.md",
-    "Operating systems/Les 0910.md",
-    "Operating systems/Les 1709.md",
-    "Conceptual Thinking/Les0210.md",
-    "Management/les0910.md",
-    "The company/Les 0310.md",
-    "assets/Pasted image 20251003094135.png",
+    "Conceptual Thinking/Les 1310.md",
+    "Conceptual Thinking/Groepsopdracht periode 1.md",
     "Conceptual Thinking/Eerste les.md",
-    "Management/Les 0210.md",
-    "Management/les2509.md",
-    "Management/Les 1809.md",
-    "misc/Sidequests.md",
+    "The company/engels",
+    "The company/communicatie/les 1011.md",
+    "Database Fundamentals/Les 1909.md",
+    "Database Fundamentals/Les 16-09.md",
+    "assets/Pasted image 20251003094135.png",
+    "The company/communicatie",
     "misc",
     "The company",
     "Management",
@@ -213,12 +219,6 @@
     "New folder",
     "cheat-sheets/windows/windows-updates.md",
     "cheat-sheets/windows/windows-terminal.md",
-    "cheat-sheets/windows/windows-dns-server.md",
-    "cheat-sheets/windows/powershell-remote.md",
-    "cheat-sheets/windows/powershell.md",
-    "cheat-sheets/windows/environment-variables-in-windows.md",
-    "cheat-sheets/windows",
-    "cheat-sheets/tools",
-    "cheat-sheets/networking/dns"
+    "cheat-sheets/windows"
   ]
 }
