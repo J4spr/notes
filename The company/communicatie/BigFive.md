@@ -1,3 +1,4 @@
+[my test](https://bigfive-test.com/result/6924230e35b9aba85ac419ca)
 # Neurotisicm 
 
 - Ik crash niet wanneer er teveel druk op mij staat, maar ik ben het hier niet mee eens
@@ -12,7 +13,7 @@
 - ik ben meer voor het rustige en niet goed in een plek met veel mensen
 - ==ik ben het beste in kleine groepen en niet de grote==
 ---
-# openness to experience
+# Openness to experience
 
 - ==ik hou ervan om te weten hoe alles werkt==
 - ik ben curieus en snel 
