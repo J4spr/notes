@@ -7,6 +7,8 @@
 4. veranderingen in organisatorische omgeving
 
 
+---
+
 # doelen
 
 Smart principe
@@ -16,3 +18,4 @@ Smart principe
 4. Realistisch/Relevant
 5. Tijdsgerelateerd
 
+[^1]: 
