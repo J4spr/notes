@@ -14,7 +14,7 @@ De balans wordt beschreven als een **"financiële foto"** of momentopname van he
         
     - _Sortering:_ Activa worden gesorteerd op **liquiditeit** (hoe snel ze in geld kunnen worden omgezet).
         
-- **Passiva (Rechterkant):** Hoe het bedrijf is _gefinancierd_ (Bron van middelen).
+- **Passiva (Rechterkant):** Hoe het bedrijf is *gefinancierd* (Bron van middelen).
     
     - **Eigen Vermogen:** Geld ingebracht door eigenaars (kapitaal) plus ingehouden winsten.
         
@@ -101,9 +101,7 @@ $$\frac{Geldmiddelen en bank}{kortlopende schulden}$$
 
 ## Solvabiliteitsratio’s
 
-### solvabiliteitsratio's
-
-^2390ba
+### solvabiliteitsratio
 
 $$\frac{Eigen vermogen}{totaal vermogen}$$
 ### schuldratio
@@ -121,4 +119,3 @@ $$ \frac{Nettowinst}{Totaal vermogen}$$
 ### EBIT-marge (Earning Before Interest and Taxes)
 
 $$\frac{EBITDA}{Omzet}$$
-
