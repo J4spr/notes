@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2468bc3a46477943",
+        "id": "bdbf70c51f5f8358",
         "type": "tabs",
         "children": [
           {
-            "id": "89d135d9adc02fda",
+            "id": "c52351740db45b2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conceptual Thinking/Samenvatting.md",
+                "file": "p2/Computer architecture/Samenvatting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Samenvatting"
             }
+          },
+          {
+            "id": "6d39588fec93a3a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programming patterns"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management/Les 1809.md",
+                "file": "p2/Computer architecture/Samenvatting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Les 1809"
+              "title": "Backlinks for Samenvatting"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual thinking/Eerste les.md",
+                "file": "p2/Computer architecture/Samenvatting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eerste les"
+              "title": "Outgoing links from Samenvatting"
             }
           },
           {
@@ -162,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,38 +196,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89d135d9adc02fda",
+  "active": "6d39588fec93a3a7",
   "lastOpenFiles": [
-    "Database Fundamentals/samenvatting.md",
-    "Conceptual Thinking/Samenvatting.md",
-    "Operating systems/samenvattingP2.md",
-    "Operating systems/Bash cheat sheet.md",
-    "Operating systems/voorbeeldexamen.md",
-    "Operating systems/samenvattingP1.md",
+    "p2/Computer architecture/Samenvatting.md",
+    "Programming patterns.md",
+    "p2/the company/Management Samenvatting.md",
+    "p2/the company/Management Samenvatting beter.md",
+    "Test.md",
+    "p2/the company/Bedrijfsbezoek.md",
+    "p2/datascience/Samenvatting.md",
+    "Ip_CT_Feedback.md",
+    "Ip presentatie.md",
+    "p2/datascience/Proefexamenp4.md",
+    "p2/Networking/praktische_deel_examen.md",
+    "p2/Networking",
+    "p2/datascience/Proefexamen.md",
+    "p2/datascience/Oefeningen regressie.md",
+    "p2/datascience/oefeningen distances en k-means clustering.md",
+    "p2/datascience/oefeningen centrummaten.md",
+    "p2/the company/oefeningen.md",
+    "assets/DCDW9.pdf",
+    "p2/the company/Oefeningen tijdwaarde van geld.md",
+    "p2/the company/Management les 0503.md",
+    "p2/datascience/Oefeningen spreidingsmaten.md",
+    "p2/datascience/2.2 oefeningen.md",
+    "p2/datascience/oefeningen.md",
+    "p2/Computer architecture/les 1.md",
+    "p2/datascience",
+    "p1/Conceptual Thinking/Portfolio.md",
+    "p2/Computer architecture",
+    "p2/Untitled.md",
+    "p2/the company",
+    "p2",
+    "p1",
+    "p1/Conceptual Thinking/Samenvatting.md",
+    "p1/Database Fundamentals/samenvatting.md",
     "assets/activity.png",
     "assets/examen_OS.pdf",
-    "assets/DCDW9.pdf",
     "assets/business_case.png",
     "assets/Examen voorbeeld 2023-2024 Computersystemen 1 Operating Systems.docx.pdf",
-    "misc/Sidequests.md",
-    "The company/management/samenvatting financieel.md",
-    "The company/management/Oefeningen.md",
-    "The company/management/oefeningen2310.md",
-    "The company/management/Les 1809.md",
-    "The company/engels/Bronnen.md",
-    "The company/management/projectmanagement.md",
-    "The company/management/les0912.md",
-    "The company/management/les2509.md",
-    "The company/management/les1811.md",
-    "The company/management/les0910.md",
-    "The company/management/les0212.md",
-    "The company/management/Les 0210.md",
-    "The company/management/exam notes.md",
     "New Text Document.txt",
-    "Conceptual Thinking/Groepsopdracht periode 1.md",
-    "Operating systems/Les 0910.md",
-    "Conceptual Thinking/Portfolio.md",
-    "Conceptual Thinking/Feedback portfolio.md",
     "assets/nieuw_class_diagram.png",
     "assets/Screenshot 2025-12-23 202135.png",
     "assets/oud_class_diagram.png",
@@ -220,14 +243,6 @@
     "assets/Screenshot 2025-12-23 200954.png",
     "assets/wireframes.png",
     "assets/Screenshot 2025-12-23 200540.png",
-    "assets/Screenshot 2025-12-23 200506.png",
-    "Conceptual Thinking/Eerste les.md",
-    "Operating systems/Les 1709.md",
-    "Untitled.base",
-    "The company/engels",
-    "The company/communicatie",
-    "misc",
-    "The company",
-    "The company/management"
+    "assets/Screenshot 2025-12-23 200506.png"
   ]
 }
