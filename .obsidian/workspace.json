@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7b8230d413ff89b",
+        "id": "9c210328986bebb2",
         "type": "tabs",
         "children": [
           {
-            "id": "670f566edb99f06a",
+            "id": "2eab6226b0e4e455",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "bedrijfsbezoek/Communicatie bedrijfsbezoek vragen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,10 +183,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "670f566edb99f06a",
+  "active": "2eab6226b0e4e455",
   "lastOpenFiles": [
-    "Programming patterns.md",
     "bedrijfsbezoek/Communicatie bedrijfsbezoek vragen.md",
+    "Programming patterns.md",
     "bedrijfsbezoek/geen idee hoe ik dit moet noemen.md",
     "bedrijfsbezoek",
     "2026-08-04.md",
