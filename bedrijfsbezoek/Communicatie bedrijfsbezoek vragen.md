@@ -18,7 +18,7 @@
 	*  160
 	* horizontaal
 * Wat zijn de belangrijkste producten, diensten of oplossingen die jullie aanbieden?
-	* Missiekritieke communicatie
+	* ==Missiekritieke communicatie==
 * Wat onderscheidt Flash van andere spelers in dezelfde markt?
 	* Missiekritiek, stralen uit en geven door dat belangrijk is
 ---
@@ -32,8 +32,6 @@
 ---
 ## 3. IT, Technologie & Operations
 *(Focust op de rol van de Operations Manager en je studie Toegepaste Informatica)*
-* Aangezien jullie kritische communicatie en private netwerken verzorgen, zijn betrouwbaarheid en beveiliging cruciaal. Hoe garanderen jullie een hoge uptime en een veilige IT-infrastructuur?
-	* 
 * Hoe is het proces ingericht wanneer er zich een kritieke storing of incident voordoet bij een klant?
 	* Incident problem change
 	* ITIl

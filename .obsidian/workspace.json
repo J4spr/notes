@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c210328986bebb2",
+        "id": "a7b8230d413ff89b",
         "type": "tabs",
         "children": [
           {
-            "id": "2eab6226b0e4e455",
+            "id": "b356fa04386a44db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "bedrijfsbezoek/Communicatie bedrijfsbezoek vragen.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,8 +185,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2eab6226b0e4e455",
+  "active": "b356fa04386a44db",
   "lastOpenFiles": [
+    "bedrijfsbezoek/skelet verslag bedrijfsbezoek.md",
     "bedrijfsbezoek/Communicatie bedrijfsbezoek vragen.md",
     "Programming patterns.md",
     "bedrijfsbezoek/geen idee hoe ik dit moet noemen.md",
@@ -215,7 +218,6 @@
     "p2/datascience/oefeningen.md",
     "p2/Computer architecture/les 1.md",
     "p2/datascience",
-    "p1/Conceptual Thinking/Portfolio.md",
     "p2/Computer architecture",
     "p2/the company",
     "p2",
