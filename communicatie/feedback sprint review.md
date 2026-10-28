@@ -1,0 +1,25 @@
+
+- team 10 
+	- Tijl staat zijn armen over elkaar, dat geeft een gesloten houding
+	- Dario moet luider praten
+	- Elwin loopt teveel rond, teveel is ook niet goed
+- team 8
+	- they dont always know what to say
+- team van de traffic lights app
+	- gestreepte trui hapert veel
+- presentatie 4 
+	- rechter persoon kijkt niet naar het publiek, maar alleen naar de powerpoint
+	- Hasar kijkt ook niet naar het publiek
+- team 5
+	- Ze gaan van nederlands naar Engels en dat komt een beetje verwarrend over.
+- team MACE
+	- dorjee moet beetje luider praten en naar publiek kijken
+	- 2de spreken moet een beetje interessanter praten, dit is eentonig
+- Tiago en Alexander hun team
+	- Manal kijkt te weinig naar het publiek
+	- Alexander heeft niet opgefucked
+- team 2 focus
+	- man met bloemen tshirt zwaait teveel met zijn armen
+	- veel te stil 
+- Nils met zen traffic light systeem
+	- luider praten
