@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1433a98716703169",
+        "id": "35488989cbf2c57d",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e86abc8254cdf9",
+            "id": "a92369811358847b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs2/theorie.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "theorie"
+              "title": "New tab"
             }
           }
         ]
@@ -184,23 +180,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a6e86abc8254cdf9",
+  "active": "a92369811358847b",
   "lastOpenFiles": [
-    "communicatie/Feedback.md",
-    "communicatie/problem statement.md",
-    "management/Tabel bedrijf.md",
-    "cs2/theorie.md",
-    "cs2",
+    "communicatie/kernkwadranten.md",
+    "assets/kernkwadranten.jpg",
+    "assets/anomalienWegwerken.png",
+    "assets/anomalienVoorbeeld.png",
+    "assets/3nv2.png",
+    "assets/3nv.png",
+    "assets/2nv2.png",
+    "assets/2nv.png",
+    "assets/1nv2.png",
+    "assets/1nv.png",
+    "assets",
+    "DB2/week2 samenvatting.md",
+    "DB2/week1 samenvatting.md",
     "DB2/eerste les.md",
-    "communicatie",
+    "assets/~ernkwadranten.tmp",
+    "assets/IMG20261021101549.jpg",
+    "cs2/theorie.md",
+    "functioneel afhankelijk.md",
+    "communicatie/problem statement.md",
+    "communicatie/Feedback.md",
     "management/eerste les.md",
-    "DB2",
-    "management",
+    "management/Tabel bedrijf.md",
     "bedrijfsbezoek/skelet verslag bedrijfsbezoek.md",
+    "management",
+    "cs2",
+    "communicatie",
+    "DB2",
     "bedrijfsbezoek/Communicatie bedrijfsbezoek vragen.md",
-    "bedrijfsbezoek",
     "Programming patterns.md",
     "bedrijfsbezoek/geen idee hoe ik dit moet noemen.md",
+    "bedrijfsbezoek",
     "2026-08-04.md",
     "assets/Recording 20260804134005.m4a",
     "p2/Computer architecture/Samenvatting.md",
@@ -214,23 +226,6 @@
     "p2/datascience/Proefexamenp4.md",
     "p2/Networking/praktische_deel_examen.md",
     "p2/Networking",
-    "p2/datascience/Proefexamen.md",
-    "p2/datascience/Oefeningen regressie.md",
-    "p2/datascience/oefeningen distances en k-means clustering.md",
-    "p2/datascience/oefeningen centrummaten.md",
-    "p2/the company/oefeningen.md",
-    "assets/DCDW9.pdf",
-    "p2/datascience",
-    "p2/Computer architecture",
-    "assets/activity.png",
-    "assets/business_case.png",
-    "assets/nieuw_class_diagram.png",
-    "assets/Screenshot 2025-12-23 202135.png",
-    "assets/oud_class_diagram.png",
-    "assets/Screenshot 2025-12-23 201817.png",
-    "assets/Screenshot 2025-12-23 200954.png",
-    "assets/wireframes.png",
-    "assets/Screenshot 2025-12-23 200540.png",
-    "assets/Screenshot 2025-12-23 200506.png"
+    "assets/DCDW9.pdf"
   ]
 }
