@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB2/week3 samenvatting.md",
+                "file": "DB2/cheat-sheets/cheatsheet-01-normalisatie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week3 samenvatting"
+              "title": "cheatsheet-01-normalisatie"
             }
           }
         ]
@@ -184,10 +184,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "50d2972d5c260005",
+  "active": "2c1875de311b3480",
   "lastOpenFiles": [
-    "DB2/week1 samenvatting.md",
+    "DB2/cheat-sheets/cheatsheet-02-dml-tcl-concurrency.md",
+    "DB2/cheat-sheets/cheatsheet-03-ddl-en-storage.md",
+    "DB2/cheat-sheets/cheatsheet-01-normalisatie.md",
+    "DB2/week4 samenvatting.md",
+    "DB2/cheat-sheets/cheatsheet-05-catalogs-transformaties-xpath.md",
+    "DB2/cheat-sheets/cheatsheet-04-optimizer-en-explain.md",
+    "DB2/cheat-sheets",
+    "DB2/Untitled.md",
     "DB2/week3 samenvatting.md",
+    "DB2/week1 samenvatting.md",
     "DB2/eerste les.md",
     "communicatie/kernkwadranten.md",
     "Untitled.canvas",
@@ -224,13 +232,6 @@
     "assets/Recording 20260804134005.m4a",
     "p2/Computer architecture/Samenvatting.md",
     "p2/the company/Management Samenvatting.md",
-    "p2/the company/Management Samenvatting beter.md",
-    "Test.md",
-    "p2/the company/Bedrijfsbezoek.md",
-    "p2/datascience/Samenvatting.md",
-    "Ip_CT_Feedback.md",
-    "Ip presentatie.md",
-    "p2/datascience/Proefexamenp4.md",
-    "p2/Networking"
+    "p2/the company/Management Samenvatting beter.md"
   ]
 }
